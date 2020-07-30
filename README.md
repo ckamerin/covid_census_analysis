@@ -47,3 +47,12 @@ ACSSPP1Y2011.S0201_table_title_2020-07-28T165540.txt - 2011 census data informat
 ACSSPP1Y2010.S0201_data_with_overlays_2020-07-28T165540.csv - 2010 census data table
 ACSSPP1Y2010.S0201_metadata_2020-07-28T165540.csv - 2010 census data column definitions
 ACSSPP1Y2010.S0201_table_title_2020-07-28T165540.txt - 2010 census data information including explanation of symbols
+2020-07-20-model-data.csv - Forcasting models of other instituaitons
+cases_by_age_group.csv - covid cases by age group
+cases_by_race_ethnicity.csv - covid cases by race/ethnicity
+cases_by_sex__all_age_groups.csv - covid cases by sex
+covid_confirmed_usafacts.csv - covid confirmed cases
+covid_county_population_usafacts.csv - Usa county populations
+deaths_by_age_group.csv - covid deaths by age group
+deaths_by_race_ethnicity.csv - covid deaths by race/ethnicity
+deaths_by_sex__all_age_groups.csv - covid deaths by sex
