@@ -1,4 +1,4 @@
-# covid_census_analysis
+# covid_census_analysis *ON HOLD
 We will be structuring covid and census data in order to complete exploratory data analysis and predictive modeling
 
 The covid data is time-series and in an effort to understand how Covid-19 is affecting different communities we are integrating census data including age, income, race, etc.
@@ -8,7 +8,9 @@ Covid-19 is the most prominent pandemic in millenials lifetime with wide-ranging
 of the effects (forecasting) as well as find who is most affected. The goal is to create a predictive model that can show the liklihood one might be affect based on demographic features.
 
 # 2. Data
-There are several data sets which will be integrated. 2010-2018 census data will be augmented with currrently availabe Covid-19 data.
+There are several data sets which will be integrated. 2010-2018 census data will be augmented with currrently availabe Covid-19 data. 
+*Still waiting for datasets to be provided from different sources
+
 
 # 3. Evaluation
 
