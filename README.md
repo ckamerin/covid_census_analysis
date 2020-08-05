@@ -9,6 +9,7 @@ of the effects (forecasting) as well as find who is most affected. The goal is t
 
 # 2. Data
 There are several data sets which will be integrated. 2010-2018 census data will be augmented with currrently availabe Covid-19 data. 
+
 *Still waiting for datasets to be provided from different sources
 
 
