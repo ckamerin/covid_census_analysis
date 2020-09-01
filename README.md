@@ -1,4 +1,4 @@
-# covid_census_analysis *ON HOLD
+# covid_census_analysis
 We will be structuring covid and census data in order to complete exploratory data analysis and predictive modeling
 
 The covid data is time-series and in an effort to understand how Covid-19 is affecting different communities we are integrating census data including age, income, race, etc.
